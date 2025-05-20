@@ -1,4 +1,5 @@
 # mobile-price-prediction-eda-ml
+Kindly open the uploading the final version of VSC & CSV File
 PPT LINK: https://1drv.ms/p/c/434d87f7cd9dc679/EY3_hBUup4FGu9LbKW8f3JgBjEN6NC3X9zSZqIlsZ6i0CQ?e=xe5FM4
 
 ![image](https://github.com/user-attachments/assets/c65165fc-9f13-4c3b-ad38-75b467077c44)
